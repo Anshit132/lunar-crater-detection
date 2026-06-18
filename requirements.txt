@@ -1,0 +1,6 @@
+pandas
+rasterio
+pyshp
+ultralytics
+tqdm
+pillow
